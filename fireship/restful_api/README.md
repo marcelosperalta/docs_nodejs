@@ -13,3 +13,7 @@ curl http://localhost:8080
 [Insomnia](https://insomnia.rest/)  
 
 [Postman](https://www.postman.com/)  
+
+**OpenAPI Specification**  
+
+https://spec.openapis.org/oas/v3.1.0  
