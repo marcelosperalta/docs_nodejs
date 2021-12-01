@@ -2,10 +2,10 @@
 
 https://nodejs.org/en/  
 
-## Table of Contens
+## Table of Contents
 
-* [Environment variables]()
-* [RESTful APIs]()
+* [Environment variables](https://github.com/marcelosperalta/docs_nodejs#environment-variables)
+* [RESTful APIs](https://github.com/marcelosperalta/docs_nodejs#restful-apis)
 
 ## Environment variables
 
