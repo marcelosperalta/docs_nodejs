@@ -8,15 +8,27 @@
 
 * [Environment variables](https://github.com/marcelosperalta/docs_nodejs#environment-variables)
 * [RESTful APIs](https://github.com/marcelosperalta/docs_nodejs#restful-apis)
+* [Framework](https://github.com/marcelosperalta/docs_nodejs#framework)
+
+<hr>
 
 ## Environment variables
 
 * [dotenv](https://github.com/motdotla/dotenv)
 
+<hr>
+
 ## RESTful APIs
 
 * [RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express](./fireship/restful_api)
 
+<hr>
+
 ## Framework
 
+* [Express](https://expressjs.com/)
+* [Fastify](https://www.fastify.io/)
+* [Koa](https://koajs.com/)
+* [Hapi](https://hapi.dev/)
 * [NestJS](https://nestjs.com/)
+* [adonis](https://adonisjs.com/)
