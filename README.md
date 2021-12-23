@@ -7,8 +7,8 @@
 ## :arrow_heading_down: Table of Contents
 
 * [Environment variables](https://github.com/marcelosperalta/docs_nodejs#environment-variables)
-* [Promise based HTTP client]()
-* [Cross-origin resource sharing]()
+* [Promise based HTTP client](https://github.com/marcelosperalta/docs_nodejs#promise-based-http-client)
+* [Cross-origin resource sharing](https://github.com/marcelosperalta/docs_nodejs#cross-origin-resource-sharing)
 * [RESTful APIs](https://github.com/marcelosperalta/docs_nodejs#restful-apis)
 * [Framework](https://github.com/marcelosperalta/docs_nodejs#framework)
 
