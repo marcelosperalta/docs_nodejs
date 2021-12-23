@@ -9,8 +9,8 @@
 * [Environment variables](https://github.com/marcelosperalta/docs_nodejs#environment-variables)
 * [Promise based HTTP client](https://github.com/marcelosperalta/docs_nodejs#promise-based-http-client)
 * [Cross-origin resource sharing](https://github.com/marcelosperalta/docs_nodejs#cross-origin-resource-sharing)
-* [RESTful APIs](https://github.com/marcelosperalta/docs_nodejs#restful-apis)
 * [Framework](https://github.com/marcelosperalta/docs_nodejs#framework)
+* [RESTful APIs](https://github.com/marcelosperalta/docs_nodejs#restful-apis)
 
 <hr>
 
@@ -32,12 +32,6 @@
 
 <hr>
 
-## RESTful APIs
-
-* [RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express](./fireship/restful_api)
-
-<hr>
-
 ## Framework
 
 * [Express](https://expressjs.com/)
@@ -46,3 +40,9 @@
 * [Hapi](https://hapi.dev/)
 * [NestJS](https://nestjs.com/)
 * [adonis](https://adonisjs.com/)
+
+<hr>
+
+## RESTful APIs
+
+* [RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express](./fireship/restful_api)
