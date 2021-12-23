@@ -7,6 +7,8 @@
 ## :arrow_heading_down: Table of Contents
 
 * [Environment variables](https://github.com/marcelosperalta/docs_nodejs#environment-variables)
+* [Promise based HTTP client]()
+* [Cross-origin resource sharing]()
 * [RESTful APIs](https://github.com/marcelosperalta/docs_nodejs#restful-apis)
 * [Framework](https://github.com/marcelosperalta/docs_nodejs#framework)
 
@@ -15,6 +17,18 @@
 ## Environment variables
 
 * [dotenv](https://github.com/motdotla/dotenv)
+
+<hr>
+
+## Promise based HTTP client
+
+* [Axios](https://axios-http.com/)
+
+<hr>
+
+## Cross-origin resource sharing
+
+* [cors](https://github.com/expressjs/cors)
 
 <hr>
 
