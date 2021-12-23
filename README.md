@@ -8,8 +8,8 @@
 
 * [Environment variables](https://github.com/marcelosperalta/docs_nodejs#environment-variables)
 * [Promise based HTTP client](https://github.com/marcelosperalta/docs_nodejs#promise-based-http-client)
-* [Cross-origin resource sharing (CORS)](https://github.com/marcelosperalta/docs_nodejs#cross-origin-resource-sharing)
-* [Object–relational mapping (ORM)]()
+* [Cross-origin resource sharing (CORS)](hhttps://github.com/marcelosperalta/docs_nodejs#cross-origin-resource-sharing-cors)
+* [Object–relational mapping (ORM)](https://github.com/marcelosperalta/docs_nodejs#objectrelational-mapping-orm)
 * [Framework](https://github.com/marcelosperalta/docs_nodejs#framework)
 * [RESTful APIs](https://github.com/marcelosperalta/docs_nodejs#restful-apis)
 
@@ -36,6 +36,7 @@
 ## Object–relational mapping (ORM)
 
 * [Prisma](https://www.prisma.io/)
+* [TypeORM](https://github.com/typeorm/typeorm)
 
 <hr>
 
