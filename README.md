@@ -10,6 +10,7 @@
 * [Promise based HTTP client](https://github.com/marcelosperalta/docs_nodejs#promise-based-http-client)
 * [Cross-origin resource sharing (CORS)](https://github.com/marcelosperalta/docs_nodejs#cross-origin-resource-sharing-cors)
 * [Object–relational mapping (ORM)](https://github.com/marcelosperalta/docs_nodejs#objectrelational-mapping-orm)
+* [Email Sending](https://github.com/marcelosperalta/docs_nodejs#email-sending)
 * [Framework](https://github.com/marcelosperalta/docs_nodejs#framework)
 * [RESTful APIs](https://github.com/marcelosperalta/docs_nodejs#restful-apis)
 
