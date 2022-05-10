@@ -11,6 +11,7 @@
 * [Cross-origin resource sharing (CORS)](https://github.com/marcelosperalta/docs_nodejs#cross-origin-resource-sharing-cors)
 * [Object–relational mapping (ORM)](https://github.com/marcelosperalta/docs_nodejs#objectrelational-mapping-orm)
 * [Email Sending](https://github.com/marcelosperalta/docs_nodejs#email-sending)
+* [Email Sandbox Service]()
 * [Framework](https://github.com/marcelosperalta/docs_nodejs#framework)
 * [RESTful APIs](https://github.com/marcelosperalta/docs_nodejs#restful-apis)
 
@@ -39,9 +40,17 @@
 * [Prisma](https://www.prisma.io/)
 * [TypeORM](https://github.com/typeorm/typeorm)
 
+<hr>
+
 ## Email sending
 
 * [Nodemailer](https://nodemailer.com/)
+
+<hr>
+
+## Email Sandbox Service
+
+* [Mailtrap](https://mailtrap.io/)
 
 <hr>
 
