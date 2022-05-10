@@ -38,6 +38,10 @@
 * [Prisma](https://www.prisma.io/)
 * [TypeORM](https://github.com/typeorm/typeorm)
 
+## Email sending
+
+* [Nodemailer](https://nodemailer.com/)
+
 <hr>
 
 ## Framework
