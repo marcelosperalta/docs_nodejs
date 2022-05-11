@@ -48,9 +48,12 @@
 
 <hr>
 
-## Email Sandbox Service
+## Email Delivery Service
 
 * [Mailtrap](https://mailtrap.io/)
+* [Mailgun](https://www.mailgun.com/)
+* [SparkPost](https://www.sparkpost.com/)
+* [Mailchimp](https://mailchimp.com/)
 
 <hr>
 
